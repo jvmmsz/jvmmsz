@@ -1,7 +1,7 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/557f84ae-df35-4b64-9bec-e0ba190d4f58"/>  
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=Hello%2C+my+name+is+João_Victor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=Hello%2C+my+name+is+JoãoVictor)](https://git.io/typing-svg)
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=I+am+a+Software+Engineering+student)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
     <a href="">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-1E46FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a
+    </a>
         <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/Ver%20Curr%C3%ADculo-1E46FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo">
     </a>
 </div>
